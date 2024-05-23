@@ -9,4 +9,4 @@
 ### Step 1. Clone the application
 ### Step 2. Go to the application's directory and run the command npm install
 ### Step 3. npm start
-### Step 4. go to localhost/the application port and you will be able to see the application
+### Step 4. go to localhost/(application port) and you will be able to see the application
