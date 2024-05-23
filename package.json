@@ -1,17 +1,19 @@
 {
   "name": "bouncing-ball",
   "version": "1.0.0",
+  "source": "index.html",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc",
+    "build": "parcel build",
     "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "parcel": "^2.12.0",
     "parcel-bundler": "^1.12.5",
     "typescript": "^5.4.5"
   }
