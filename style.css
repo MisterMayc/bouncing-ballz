@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: #282c34;*/
+    /*background-color: #1a1a1a;*/
+}
+
+canvas {
+    background-color: #030012;
+}
